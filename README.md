@@ -24,5 +24,8 @@ From here the step of right click will be repeated with each module in order
 7. Select "payment" test,  right click on second line and select the last option "Play from here"
 8. Select "paymentMethod" test,  right click on second line and select the last option "Play from here"
 
+# Approach
+I selected Selenium IDE for the facilty that provides the tool on installation and use, also it's easier to mantain and edit code.
+
 #Built by
 Karla Ireri Reyes Macedo
