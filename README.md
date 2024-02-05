@@ -27,5 +27,5 @@ From here the step of right click will be repeated with each module in order
 # Approach
 I selected Selenium IDE for the facilty that provides the tool on installation and use, also it's easier to mantain and edit code.
 
-#Built by
+# Built by
 Karla Ireri Reyes Macedo
